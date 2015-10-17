@@ -1,0 +1,67 @@
+<html>
+<head>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    google.load('visualization', '1.1', {packages: ['line']});
+    google.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+
+      var data = new google.visualization.DataTable();
+      data.addColumn('date', 'month');
+      data.addColumn('number', 'kwh');
+
+      data.addRows([
+[new Date('2015-10-01'),191],
+[new Date('2015-09-01'),257],
+[new Date('2015-08-03'),232],
+[new Date('2015-07-02'),181],
+[new Date('2015-06-01'),165],
+[new Date('2015-05-01'),169],
+[new Date('2015-04-01'),173],
+[new Date('2015-03-02'),162],
+[new Date('2015-02-01'),175],
+[new Date('2015-01-01'),179],
+[new Date('2014-12-01'),191],
+[new Date('2014-11-03'),225],
+[new Date('2014-10-01'),247],
+[new Date('2014-09-02'),303],
+[new Date('2014-08-01'),245],
+[new Date('2014-07-02'),190],
+[new Date('2014-06-02'),189],
+[new Date('2014-05-01'),164],
+[new Date('2014-04-01'),159],
+[new Date('2014-03-03'),158],
+[new Date('2014-02-03'),182],
+      ]);
+
+      var options = {
+        chart: {
+          title: 'Electric Usage',
+          subtitle: 'in kwh',
+        },
+        axes: {
+            y: {
+                all: {
+                    range: {
+                        max: 400,
+                        min: 100
+                    }
+                }
+            }
+        },
+        width: 900,
+        height: 700
+      };
+
+      var chart = new google.charts.Line(document.getElementById('linechart_material'));
+
+      chart.draw(data, options);
+    }
+  </script>
+</head>
+<body>
+  <div id="linechart_material"></div>
+</body>
+</html>
+
