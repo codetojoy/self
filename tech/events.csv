@@ -23,7 +23,7 @@ Date,Role,Event,Location,Notes
 2016-07-26,organizer,Open Data Book Club,Ch'town,
 2016-06-28,organizer/sponsor,Open Data Book Club,Ch'town,
 2016-06-09,attendee,PEI Devs,Ch'town,
-2016-06-04,speaker,Maritime Dev Con 2016,Fredericton NB,Covert Ops: Transform Your Java Team With Groovy
+2016-06-04,speaker,Maritime DevCon 2016,Fredericton NB,Covert Ops: Transform Your Java Team With Groovy
 2016-05-24,organizer/speaker/sponsor,Open Data Book Club,Ch'town,CODS 2016 Recap
 2016-05-12,organizer/facilitator,PEI Devs,Ch'town,Show and Tell
 2016-04-28,attendee/speaker,Canadian Open Data Summit,Saint John,Open Data Book Club lightning talk
@@ -54,7 +54,7 @@ Date,Role,Event,Location,Notes
 2015-08-13,speaker,PEI Devs,Ch'town,Open Data
 2015-07-31,speaker,IT Garage,Ch'town,Lifecycle of a Bug Fix
 2015-07-09,attendee,PEI Devs,Ch'town,
-2015-06-13,speaker,Maritime DevCon,Fredericton NB,
+2015-06-13,attendee,Maritime DevCon,Fredericton NB,
 2015-06-11,attendee/lightning talk,PEI Devs,Ch'town,Open Data summits
 2015-06-16,speaker,ScreenScape,Ch'town,Maritime DevCon recap
 2015-05-28,attendee,International Open Data Conf,Ottawa,http://bitly.com/1V9X943
@@ -98,5 +98,6 @@ Date,Role,Event,Location,Notes
 2012-06-01,speaker,ScreenScape,Ch'town,Groovy
 2012-01-19,speaker,CIPS,Ch'town,jQuery
 2011-11-09,speaker,CIPS,Ch'town,Long Live the the JVM: Intro to Groovy
+2011-06-18,attendee,Maritime DevCon,Fredericton NB,
 2010-05-23,speaker,No Fluff Just Stuff,St. Louis,http://bit.ly/1KacSXL
 2009-05-05,speaker,Lambda Lounge,St. Louis,http://bit.ly/1Pu9Btm
