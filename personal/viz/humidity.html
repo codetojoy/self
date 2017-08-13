@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+
+            ['Date','Low','High'],
+            ['MAY 2017',32,38],
+            ['JUN 2017',34,47],
+            ['JUL 2017',37,50],
+            ['AUG 2017',37,51]
+        ]);
+
+        var options = {
+            title: 'Humidity',
+            hAxis: {title: 'Month',  titleTextStyle: {color: '#333'}},
+            vAxis: {minValue: 20, maxValue: 70},
+            series: {
+              0: { areaOpacity: 0 },
+              1: { areaOpacity: 0 } 
+            }
+        };
+
+        var chart = new google.visualization.AreaChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 90%; height: 90%;"></div>
+  </body>
+</html>
