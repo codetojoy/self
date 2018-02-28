@@ -1,0 +1,73 @@
+<html>
+<head>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    google.load('visualization', '1.1', {packages: ['line']});
+    google.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+
+      var data = new google.visualization.DataTable();
+      data.addColumn('date', 'month');
+      data.addColumn('number', 'kwh');
+
+      data.addRows([
+[new Date('2018-02-01'),107922],
+[new Date('2018-01-01'),107432],
+[new Date('2017-12-01'),105683],
+[new Date('2017-11-01'),105301],
+[new Date('2017-10-01'),105044],
+[new Date('2017-09-01'),104849],
+[new Date('2017-08-01'),104646],
+[new Date('2017-07-01'),104261],
+[new Date('2017-06-01'),103472],
+[new Date('2017-05-01'),103167],
+[new Date('2017-04-01'),102809],
+[new Date('2017-03-01'),102516],
+[new Date('2017-02-01'),102285],
+[new Date('2017-01-01'),101956],
+[new Date('2016-12-01'),101323],
+[new Date('2016-11-01'),100979],
+[new Date('2016-10-01'),100364],
+[new Date('2016-09-01'),100007],
+[new Date('2016-08-01'),99690],
+[new Date('2016-07-01'),99113],
+[new Date('2016-06-01'),98018],
+[new Date('2016-05-01'),97599],
+[new Date('2016-04-01'),96623],
+[new Date('2016-03-01'),96319],
+[new Date('2016-02-01'),96056],
+[new Date('2016-01-01'),95767],
+[new Date('2015-12-01'),95168],
+[new Date('2015-11-01'),94725],
+[new Date('2015-10-01'),94210],
+      ]);
+
+      var options = {
+        chart: {
+          title: 'Mileage',
+          subtitle: 'in miles',
+        },
+        axes: {
+            y: {
+                all: {
+                    range: {
+                        max: 110000,
+                        min: 90000
+                    }
+                }
+            }
+        },
+      };
+
+      var chart = new google.charts.Line(document.getElementById('linechart_material'));
+
+      chart.draw(data, options);
+    }
+  </script>
+</head>
+<body>
+  <div id="linechart_material" style="width: 90%; height: 90%"></div>
+</body>
+</html>
+
