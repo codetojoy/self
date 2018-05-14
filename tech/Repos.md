@@ -3,6 +3,7 @@
 
 ### Eggs
 
+* Git [here](https://github.com/codetojoy/easter_eggs_for_git)
 * Gradle [here](https://github.com/codetojoy/easter_eggs_for_gradle)
 * Groovy [here](https://github.com/codetojoy/easter_eggs_for_groovy)
 * Java 9 [here](https://github.com/codetojoy/easter_eggs_for_java_9)
