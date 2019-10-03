@@ -1,7 +1,7 @@
 
 ## Notes
 
-### from 2012-2014, or memories thereof.
+### from 2012-2014
 
 * [Tattoo](https://en.wikipedia.org/wiki/Tattoo_(Van_Halen_song))
 * [Slither](https://en.wikipedia.org/wiki/Slither_(song))
