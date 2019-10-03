@@ -8,3 +8,4 @@ From 2012-2014, or memories thereof.
 * [Power of Two](https://genius.com/Indigo-girls-power-of-two-lyrics)
 * [Somebody's Baby](https://en.wikipedia.org/wiki/Somebody%27s_Baby)
 * [Black](https://en.wikipedia.org/wiki/Black_(Pearl_Jam_song))
+* [Take Me Home Tonight](https://en.wikipedia.org/wiki/Take_Me_Home_Tonight_(song))
