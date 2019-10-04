@@ -13,14 +13,20 @@
 
 ### memories of 2012-2014 
 
+* [Brandy (You're a Fine Girl)](https://en.wikipedia.org/wiki/Brandy_(You%27re_a_Fine_Girl))
+    * necklace
 * [He Stopped Loving Her Today](https://en.wikipedia.org/wiki/He_Stopped_Loving_Her_Today)
+    * Revisionist History podcast
 * [I'll Never Smile Again](https://en.wikipedia.org/wiki/I%27ll_Never_Smile_Again)
+* [Careless Whisper](https://en.wikipedia.org/wiki/Careless_Whisper)
+    * extremely good, though infidelity doesn't fit
 * [Lost Together](https://en.wikipedia.org/wiki/Lost_Together_(Blue_Rodeo_album))
 * [Black](https://en.wikipedia.org/wiki/Black_(Pearl_Jam_song))
 
 ### general
 
 * Led Zeppelin
+* Metallica
 * Red Hot Chili Peppers
 * Pink Floyd
 * Yngwie Malmsteen 
