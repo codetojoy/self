@@ -23,16 +23,16 @@
 
 ### JAN 2020
 
-* [The Gentle Art of Swedish Death Cleaning...](https://www.amazon.ca/Gentle-Art-Swedish-Death-Cleaning-ebook/dp/B074ZKHG4K) by Margareta Magnusson"
-* nomination: CF 
+* ["The Gentle Art of Swedish Death Cleaning..."](https://www.amazon.ca/Gentle-Art-Swedish-Death-Cleaning-ebook/dp/B074ZKHG4K) by Margareta Magnusson
+* nomination: CF
 
 ### FEB 2020
 
-* [The Overstory: A Novel](https://en.wikipedia.org/wiki/The_Overstory) by Richard Powers 
+* ["The Overstory: A Novel"](https://en.wikipedia.org/wiki/The_Overstory) by Richard Powers 
 * nomination: BS
 
 ### MAR 2020
 
-* [Sapiens: A Brief History of Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) by Yuval Noah Harari
+* ["Sapiens: A Brief History of Humankind"](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) by Yuval Noah Harari
 * nomination: DC
 
