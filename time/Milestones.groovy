@@ -16,7 +16,7 @@ println ""
 
 // phones
 printDiff("Nokia", new DateTime(2003, 5, 1, 9, 00), new DateTime(2010, 6, 1, 9, 00))
-printDiff("iPhone 4S", new DateTime(2011, 10, 1, 9, 00), new DateTime())
+printDiff("iPhone 4S", new DateTime(2011, 10, 1, 9, 00), new DateTime(2020, 7, 27, 9, 00))
 
 println ""
 
