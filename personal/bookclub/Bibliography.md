@@ -11,5 +11,5 @@
 | FEB 2020 | BS | Richard Powers | ["The Overstory: A Novel"](https://en.wikipedia.org/wiki/The_Overstory) |
 | MAR 2020 | DC | Yuval Noah Harari | ["Sapiens: A Brief History of Humankind"](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) |
 | MAY 2020 | JP | Willa Cather | [My Ántonia](https://en.wikipedia.org/wiki/My_%C3%81ntonia) |
-| JUL 2020 | ?  | Alison Bechdel | [Fun Home](https://en.wikipedia.org/wiki/Fun_Home) | 
+| JUL 2020 | MA  | Alison Bechdel | [Fun Home](https://en.wikipedia.org/wiki/Fun_Home) | 
 
