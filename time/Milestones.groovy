@@ -6,11 +6,26 @@ import org.joda.time.*
 def printDiff = { prefix, start, end ->
     def numDays = Days.daysBetween(start.toLocalDate(), end.toLocalDate()).getDays()
     println "${prefix} duration (# days) : " + numDays
+    return numDays
 }
 
 // cars
-printDiff("Miata", new DateTime(1996, 7, 3, 9, 00), new DateTime(2007, 5, 15, 9, 00))
-printDiff("Civic Si", new DateTime(2007, 5, 15, 9, 00), new DateTime())
+def miataNumDays = printDiff("Miata", new DateTime(1996, 7, 3, 9, 00), new DateTime(2007, 5, 15, 9, 00))
+def hondaNumDays = printDiff("Civic Si", new DateTime(2007, 5, 15, 9, 00), new DateTime())
+
+println ""
+
+// car mileage
+
+int miataDiff = 216000 - 53000
+float miataRate = miataDiff / miataNumDays 
+def miataStr = String.format("Miata mileage rate: %.2f", miataRate)
+println miataStr 
+
+int hondaDiff = 122500 - 11000
+float hondaRate = hondaDiff / hondaNumDays 
+def hondaStr = String.format("Honda mileage rate: %.2f", hondaRate)
+println hondaStr 
 
 println ""
 
