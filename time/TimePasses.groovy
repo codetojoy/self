@@ -16,4 +16,5 @@ println ""
 def now = new DateTime()
 numDays = Days.daysBetween(end.toLocalDate(), now.toLocalDate()).getDays()
 println "duration since # days : " + numDays
+println String.format("duration since # blocks : %.1f", (numDays / 1012.0))
 
