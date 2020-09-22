@@ -1,5 +1,6 @@
 Date,kwh,days,usage,rate,notes
-03-AUG-2020,198,32,6.18,1.83,"meter error: same usage as last year"
+02-SEP-2020,48,30,1.6,1.05,"meter error"
+03-AUG-2020,0,32,0,0.77,"meter error"
 02-JUL-2020,212,31,6.83,1.78,""
 01-JUN-2020,187,31,6.03,1.66,""
 01-MAY-2020,177,30,5.90,1.67,""
