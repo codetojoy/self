@@ -13,4 +13,5 @@
 | MAY 2020 | JP | Willa Cather | [My Ántonia](https://en.wikipedia.org/wiki/My_%C3%81ntonia) |
 | JUL 2020 | MA  | Alison Bechdel | [Fun Home](https://en.wikipedia.org/wiki/Fun_Home) | 
 | AUG 2020 | KC | Neil Postman | [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
+| OCT 2020 | SH | Margaret Atwood | [The Heart Goes Last](https://en.wikipedia.org/wiki/The_Heart_Goes_Last)
 
