@@ -31,6 +31,9 @@
 * Red Hot Chili Peppers
 * Pink Floyd
 * Yngwie Malmsteen 
+* Schitt's Creek
+    - se5ep13, Merry Christmas  
+    - se6ep8, Alexis/Ted
 
 ### social media
 
@@ -38,4 +41,11 @@
 
 ### YouTube
 
+* TED talk by [Tracy Chevalier](https://www.youtube.com/watch?v=nCg2NcGYu34)
 * [albatross re-united](https://www.youtube.com/watch?v=JXk6gIDX4Dk)
+* Eugene Levy [tribute](https://www.youtube.com/watch?v=DysVIh-vzQw)
+* Doug Messenger on [his wife](https://www.youtube.com/watch?v=_Zpn1ZOYP08)
+    - 4m30 to 5m30s
+
+
+
