@@ -23,6 +23,7 @@
 * "The one with nothing but happiness has everything (but acceptance)."- Michael Easter
 * "Automated tests are faithful; documentation will break your heart." - Michael Easter on software development
     - `/* Horse string length into correctitude */` - comment by programmer, according to undergrad textbook
+* "Never underestimate the willingness of others to spend **your** time." - Michael Easter
 
 ### Colleagues, School
 
