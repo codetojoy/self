@@ -19,7 +19,7 @@
 
 ### Mine
 
-* "To be graceful, swim. To be youthful, bike. To be thoughtful, run." - Michael Easter on triathlon
+* "To be graceful: swim; to be youthful: bike; to be thoughtful: run." - Michael Easter on triathlon
 * "The one with nothing but happiness has everything (but acceptance)."- Michael Easter
 * "Automated tests are faithful; documentation will break your heart." - Michael Easter on software development
     - `/* Horse string length into correctitude */` - comment by programmer, according
