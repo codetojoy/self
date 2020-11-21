@@ -13,7 +13,7 @@
 * "Am I afraid of high notes? Of course I am afraid. What sane man is not?" -
     [Luciano Pavarotti](https://en.wikipedia.org/wiki/Luciano_Pavarotti)
 * "Nous sommes tous Américains" ("We are all Americans") - [Le Monde](https://en.wikipedia.org/wiki/Le_Monde), September 12, 2001 (confirm?)
-* "X is just one of the many lies you were led to believe in your previous education." - [Professor David Buck](https://islandscholar.ca/people/dbuck), for various values of `X`
+* "How can 'less be more'? That's impossible: more is more." - Yngwie Malmsteen [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
 * "It doesn't matter what temperature a room is, it's always room temperature." - Stephen Wright
 
@@ -22,11 +22,11 @@
 * "To be graceful: swim; to be youthful: bike; to be thoughtful: run." - Michael Easter on triathlon
 * "The one with nothing but happiness has everything (but acceptance)."- Michael Easter
 * "Automated tests are faithful; documentation will break your heart." - Michael Easter on software development
-    - `/* Horse string length into correctitude */` - comment by programmer, according
-to undergrad textbook
+    - `/* Horse string length into correctitude */` - comment by programmer, according to undergrad textbook
 
-### Colleagues
+### Colleagues, School
 
 * "The passions are so high because the stakes are so small." - Dale Wilson
 * "Stay crazy." - Eric Nelson, in farewell card to me 
+* "X is just one of the many lies you were led to believe in your previous education." - [Professor David Buck](https://islandscholar.ca/people/dbuck), for various values of `X`
 
