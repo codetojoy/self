@@ -1,7 +1,7 @@
 
 ### Quotes
 
-* "He's a genius because he had the nerve to do it after he had the thought." - Michael Lewis on [Lin-Manuel Miranda](https://en.wikipedia.org/wiki/Lin-Manuel_Miranda) and "Hamilton" 
+* "He's a genius because he had the nerve to do it after he had the thought." - [Michael Lewis](https://en.wikipedia.org/wiki/Michael_Lewis) on [Lin-Manuel Miranda](https://en.wikipedia.org/wiki/Lin-Manuel_Miranda) and "Hamilton" 
     - near 18m12s [here](https://charlierose.com/videos/25858)
 * "The very essence of romance is uncertainty." - [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde), in "The Importance of Being Earnest"
 * "My wallpaper and I are fighting a duel to the death. One or other of us has got to go." - [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (on his death-bed, possibly apocryphal)
