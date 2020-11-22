@@ -20,12 +20,12 @@ writer, I appreciate a good line (or moment in history).
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
 * "It doesn't matter what temperature a room is, it's always room temperature." - Stephen Wright
 * “I apologize for such a long letter - I didn't have time to write a short one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
-* "The older I grow, the less important the comma becomes. Let the reader catch his own breath." - [Elizabeth Clarkson Zwart](https://snaccooperative.org/ark:/99166/w6mk7rkn)
+* "The older I grow, the less important the comma becomes. Let the reader catch his own breath." - [Elizabeth Clarkson Zwart](https://snaccooperative.org/ark:/99166/w6mk7rkn), columnist
 
 ### Requires Context 
 
-* "He's a genius because he had the nerve to do it after he had the thought." - [Michael Lewis](https://en.wikipedia.org/wiki/Michael_Lewis) on [Lin-Manuel Miranda](https://en.wikipedia.org/wiki/Lin-Manuel_Miranda) and [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))
-    - Charlie Rose had suggested that the idea for "Hamilton" was genius
+* "He's a genius because he had the nerve to do it after he had the thought." - [Michael Lewis](https://en.wikipedia.org/wiki/Michael_Lewis) on [Lin-Manuel Miranda](https://en.wikipedia.org/wiki/Lin-Manuel_Miranda)
+    - Charlie Rose had suggested that the Miranda is a genius for the idea of [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))
     - near 18m12s [here](https://charlierose.com/videos/25858)
 * "He would have been one of the greats, if the plate was high and outside."
     - umpire in baseball documentary, [Fastball](https://www.imdb.com/title/tt5434972), on [Steve Dalkowski](https://en.wikipedia.org/wiki/Steve_Dalkowski)
