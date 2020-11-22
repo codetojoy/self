@@ -22,6 +22,7 @@ writer, I appreciate a good line (or moment in history).
 * “I apologize for such a long letter - I didn't have time to write a short one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 * "The older I grow, the less important the comma becomes. Let the reader catch his own breath." - [Elizabeth Clarkson Zwart](https://snaccooperative.org/ark:/99166/w6mk7rkn), columnist
 * "Pain is inevitable; suffering is optional." - [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
+* "Small people talk about other people. Good people talk about current events. Great people talk about ideas." - unknown 
 
 ### Requires Context 
 
@@ -42,6 +43,7 @@ writer, I appreciate a good line (or moment in history).
 * "Automated tests are faithful; documentation will break your heart." - Michael Easter on software development
     - `/* Horse string length into correctitude */` - comment by programmer, according to undergrad textbook
 * "Never underestimate the willingness of others to spend *your* time." - Michael Easter
+* "There's no such thing as boredom; there's only boring people." - Michael Easter
 
 ### Colleagues, School
 
