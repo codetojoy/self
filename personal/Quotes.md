@@ -16,11 +16,12 @@ writer, I appreciate a good line (or moment in history).
 * "Am I afraid of high notes? Of course I am afraid. What sane man is not?" -
     [Luciano Pavarotti](https://en.wikipedia.org/wiki/Luciano_Pavarotti)
 * "Nous sommes tous Américains" (*"We are all Americans"*) - [Le Monde](https://en.wikipedia.org/wiki/Le_Monde), September 12, 2001 (confirm?)
-* "How can 'less be more'? That's impossible: *more* is more." - Yngwie Malmsteen [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
+* "How can 'less be more'? That's impossible: *more* is more." - [Yngwie Malmsteen](https://en.wikipedia.org/wiki/Yngwie_Malmsteen) [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
 * "It doesn't matter what temperature a room is, it's always room temperature." - Stephen Wright
 * “I apologize for such a long letter - I didn't have time to write a short one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 * "The older I grow, the less important the comma becomes. Let the reader catch his own breath." - [Elizabeth Clarkson Zwart](https://snaccooperative.org/ark:/99166/w6mk7rkn), columnist
+* "Pain is inevitable; suffering is optional." - [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 
 ### Requires Context 
 
