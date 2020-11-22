@@ -15,8 +15,8 @@ writer, I appreciate a good line (or moment in history).
   he'll kick your ass." - (paraphrased) [Edward Van Halen](https://en.wikipedia.org/wiki/Eddie_Van_Halen)
 * "Am I afraid of high notes? Of course I am afraid. What sane man is not?" -
     [Luciano Pavarotti](https://en.wikipedia.org/wiki/Luciano_Pavarotti)
-* "Nous sommes tous Américains" ("We are all Americans") - [Le Monde](https://en.wikipedia.org/wiki/Le_Monde), September 12, 2001 (confirm?)
-* "How can 'less be more'? That's impossible: more is more." - Yngwie Malmsteen [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
+* "Nous sommes tous Américains" (*"We are all Americans"*) - [Le Monde](https://en.wikipedia.org/wiki/Le_Monde), September 12, 2001 (confirm?)
+* "How can 'less be more'? That's impossible: *more* is more." - Yngwie Malmsteen [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
 * "It doesn't matter what temperature a room is, it's always room temperature." - Stephen Wright
 * “I apologize for such a long letter - I didn't have time to write a short one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
@@ -28,7 +28,7 @@ writer, I appreciate a good line (or moment in history).
     - Charlie Rose had suggested that the Miranda is a genius for the idea of [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))
     - near 18m12s [here](https://charlierose.com/videos/25858)
 * "He would have been one of the greats, if the plate was high and outside."
-    - umpire in baseball documentary, [Fastball](https://www.imdb.com/title/tt5434972), on [Steve Dalkowski](https://en.wikipedia.org/wiki/Steve_Dalkowski)
+    - (paraphrased) umpire in baseball documentary, [Fastball](https://www.imdb.com/title/tt5434972), on [Steve Dalkowski](https://en.wikipedia.org/wiki/Steve_Dalkowski)
 * "Just watch me." - Pierre Eliot Trudeau 
     - when asked how far he would go, re: use of military/suspending civil liberties, in addressing kidnapping/terrorism by FLQ in [October Crisis](https://en.wikipedia.org/wiki/October_Crisis)
     - near 5m55sec [here](https://www.youtube.com/watch?v=XfUq9b1XTa0)
