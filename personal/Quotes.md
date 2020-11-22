@@ -1,6 +1,9 @@
 
 ### Quotes
 
+I don't necessarily endorse the sentiment of the quote, or the person. As a
+writer, I appreciate a good line (or moment in history).
+
 * "He's a genius because he had the nerve to do it after he had the thought." - [Michael Lewis](https://en.wikipedia.org/wiki/Michael_Lewis) on [Lin-Manuel Miranda](https://en.wikipedia.org/wiki/Lin-Manuel_Miranda) and "Hamilton" 
     - near 18m12s [here](https://charlierose.com/videos/25858)
 * "The very essence of romance is uncertainty." - [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde), in "The Importance of Being Earnest"
@@ -16,6 +19,10 @@
 * "How can 'less be more'? That's impossible: more is more." - Yngwie Malmsteen [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
 * "It doesn't matter what temperature a room is, it's always room temperature." - Stephen Wright
+* “I apologize for such a long letter - I didn't have time to write a short one.”
+- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
+* "Just watch me." - Pierre Eliot Trudeau 
+    - near 5m55sec [here](https://www.youtube.com/watch?v=XfUq9b1XTa0)
 
 ### Mine
 
@@ -30,4 +37,5 @@
 * "The passions are so high because the stakes are so small." - Dale Wilson
 * "Stay crazy." - Eric Nelson, in farewell card to me 
 * "X is just one of the many lies you were led to believe in your previous education." - [Professor David Buck](https://islandscholar.ca/people/dbuck), for various values of `X`
+* "It tastes like regret." - Michael Gauthier on extreme hot sauce
 
