@@ -15,4 +15,4 @@
 | AUG 2020 | KC | Neil Postman | [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
 | OCT 2020 | SH | Margaret Atwood | [The Heart Goes Last](https://en.wikipedia.org/wiki/The_Heart_Goes_Last)
 | NOV 2020 | BS | Colson Whitehead | [The Nickel Boys](https://en.wikipedia.org/wiki/The_Nickel_Boys)
-
+| JAN 2021 | DC | Michael Crummey | [The Innocents](https://www.amazon.ca/Innocents-Michael-Crummey/dp/0385685416)
