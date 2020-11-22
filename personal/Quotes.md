@@ -18,7 +18,7 @@ writer, I appreciate a good line (or moment in history).
 * "Nous sommes tous Américains" (*"We are all Americans"*) - [Le Monde](https://en.wikipedia.org/wiki/Le_Monde), September 12, 2001 (confirm?)
 * "How can 'less be more'? That's impossible: *more* is more." - [Yngwie Malmsteen](https://en.wikipedia.org/wiki/Yngwie_Malmsteen) [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
-* "It doesn't matter what temperature a room is, it's always room temperature." - Stephen Wright
+* "It doesn't matter what temperature a room is, it's always room temperature." - [Steven Wright](https://en.wikipedia.org/wiki/Steven_Wright)
 * “I apologize for such a long letter - I didn't have time to write a short one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 * "The older I grow, the less important the comma becomes. Let the reader catch his own breath." - [Elizabeth Clarkson Zwart](https://snaccooperative.org/ark:/99166/w6mk7rkn), columnist
 * "Pain is inevitable; suffering is optional." - [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
@@ -54,5 +54,5 @@ writer, I appreciate a good line (or moment in history).
 
 * "We had two bags of grass, seventy-five pellets of mescaline, five sheets of high-powered blotter acid, a saltshaker half-full of cocaine, and a whole galaxy of multi-colored uppers, downers, screamers, laughers... Also, a quart of tequila, a quart of rum, a case of beer, a pint of raw ether, and two dozen amyls. Not that we needed all that for the trip, but once you get locked into a serious drug collection, the tendency is to push it as far as you can." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
 
-* "There he goes. One of God's own prototypes. A high-powered mutant of some kind never even considered for mass production." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
+* "There he goes. One of God's own prototypes. A high-powered mutant of some kind, never even considered for mass production." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
 
