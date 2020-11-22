@@ -19,8 +19,7 @@ writer, I appreciate a good line (or moment in history).
 * "How can 'less be more'? That's impossible: more is more." - Yngwie Malmsteen [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
 * "It doesn't matter what temperature a room is, it's always room temperature." - Stephen Wright
-* “I apologize for such a long letter - I didn't have time to write a short one.”
-- [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
+* “I apologize for such a long letter - I didn't have time to write a short one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 * "Just watch me." - Pierre Eliot Trudeau 
     - near 5m55sec [here](https://www.youtube.com/watch?v=XfUq9b1XTa0)
 
