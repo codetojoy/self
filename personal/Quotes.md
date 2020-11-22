@@ -50,3 +50,9 @@ writer, I appreciate a good line (or moment in history).
 * "X is just one of the many lies you were led to believe in your previous education." - [Professor David Buck](https://islandscholar.ca/people/dbuck), for various values of `X`
 * "It tastes like regret." - Michael Gauthier on extreme hot sauce
 
+### Film
+
+* "We had two bags of grass, seventy-five pellets of mescaline, five sheets of high-powered blotter acid, a saltshaker half-full of cocaine, and a whole galaxy of multi-colored uppers, downers, screamers, laughers... Also, a quart of tequila, a quart of rum, a case of beer, a pint of raw ether, and two dozen amyls. Not that we needed all that for the trip, but once you get locked into a serious drug collection, the tendency is to push it as far as you can." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
+
+* "There he goes. One of God's own prototypes. A high-powered mutant of some kind never even considered for mass production." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
+
