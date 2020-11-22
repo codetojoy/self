@@ -23,7 +23,7 @@ writer, I appreciate a good line (or moment in history).
 * "Just watch me." - Pierre Eliot Trudeau 
     - near 5m55sec [here](https://www.youtube.com/watch?v=XfUq9b1XTa0)
 * "He would have been one of the greats, if the plate was high and outside."
-    - umpire in baseball documentary [Fastball](https://www.imdb.com/title/tt5434972) on [Steve Dalkowski](https://en.wikipedia.org/wiki/Steve_Dalkowski)
+    - umpire in baseball documentary, [Fastball](https://www.imdb.com/title/tt5434972), on [Steve Dalkowski](https://en.wikipedia.org/wiki/Steve_Dalkowski)
 
 ### Mine
 
