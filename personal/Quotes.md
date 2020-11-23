@@ -25,7 +25,7 @@ writer, I appreciate a good line (or moment in history).
 ### On Simplicity 
 
 * "Simplify, then add lightness." - [Colin Chapman](https://en.wikipedia.org/wiki/Colin_Chapman) on race-car design
-* "Everything should be made as simple as possible, but no simpler" - attributed to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (but probably a summary of a lecture)
+* "Everything should be made as simple as possible, but no simpler." - attributed to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (but probably a summary of a lecture)
 * "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - [Antoine de Saint-Exupery](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 
 ### Requires Context 
