@@ -4,6 +4,10 @@
 I don't necessarily endorse the sentiment of the quote, or the person. As a
 writer, I appreciate a good line (or moment in history).
 
+This is a long list, as there is a small chance that this will be a lightning
+talk one day. An excellent quote has a lasting impression on me; I encountered
+some of these many years (decades!) ago.
+
 * "The very essence of romance is uncertainty." - [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) in [The Importance of Being Earnest](https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest)
 * "My wallpaper and I are fighting a duel to the death. One or other of us has got to go." - [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (on his death-bed, possibly apocryphal)
 * "When I am White, I win because I am White. When I am Black, I win
