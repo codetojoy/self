@@ -13,10 +13,6 @@ some of these many years (decades!) ago.
 * "When I am White, I win because I am White. When I am Black, I win
    because I am Bogoljubov." - [Efim Bogoljubov](https://en.wikipedia.org/wiki/Efim_Bogoljubov), chess Grandmaster 
 * "If there is any one here tonight whom I have not offended, I apologize!" - [Johannes Brahms](https://en.wikipedia.org/wiki/Johannes_Brahms) (leaving a dinner party)
-* "A lot of people think songs have to have words. Tell that to Beethoven, and
-  he'll kick your ass." - (paraphrased) [Edward Van Halen](https://en.wikipedia.org/wiki/Eddie_Van_Halen)
-* "Am I afraid of high notes? Of course I am afraid. What sane man is not?" -
-    [Luciano Pavarotti](https://en.wikipedia.org/wiki/Luciano_Pavarotti)
 * "Nous sommes tous Américains" (*"We are all Americans"*) - [Le Monde](https://en.wikipedia.org/wiki/Le_Monde), September 12, 2001 (confirm?)
 * "How can 'less be more'? That's impossible: *more* is more." - [Yngwie Malmsteen](https://en.wikipedia.org/wiki/Yngwie_Malmsteen) [here](https://www.youtube.com/watch?v=QHZ48AE3TOI)
 * "There are all-stars; then there are super-stars; and then there is Bobby Orr." - Don Cherry 
@@ -32,7 +28,16 @@ some of these many years (decades!) ago.
 * "Everything should be made as simple as possible, but no simpler." - attributed to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (but probably a summary of a lecture)
 * "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - [Antoine de Saint-Exupery](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 
-### Requires Context 
+### Music
+
+* "A lot of people think songs have to have words. Tell that to Beethoven, and
+  he'll kick your ass." - (paraphrased) [Edward Van Halen](https://en.wikipedia.org/wiki/Eddie_Van_Halen)
+* "Am I afraid of high notes? Of course I am afraid. What sane man is not?" -
+    [Luciano Pavarotti](https://en.wikipedia.org/wiki/Luciano_Pavarotti)
+* "You have to listen to the notes she's not playing." - [Lisa Simpson](https://en.wikipedia.org/wiki/Lisa_Simpson) on jazz
+* "Sometimes you have to play a long time to be able to play like yourself." - [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis)
+
+### Context Required 
 
 * "He's a genius because he had the nerve to do it after he had the thought." - [Michael Lewis](https://en.wikipedia.org/wiki/Michael_Lewis) on [Lin-Manuel Miranda](https://en.wikipedia.org/wiki/Lin-Manuel_Miranda)
     - Charlie Rose had suggested that Miranda is a genius for the idea of [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))
