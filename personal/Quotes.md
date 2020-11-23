@@ -4,8 +4,6 @@
 I don't necessarily endorse the sentiment of the quote, or the person. As a
 writer, I appreciate a good line (or moment in history).
 
-* "Everything should be made as simple as possible, but no simpler" - attributed to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (but probably a summary of a lecture)
-* "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - [Antoine de Saint-Exupery](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 * "The very essence of romance is uncertainty." - [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) in [The Importance of Being Earnest](https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest)
 * "My wallpaper and I are fighting a duel to the death. One or other of us has got to go." - [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (on his death-bed, possibly apocryphal)
 * "When I am White, I win because I am White. When I am Black, I win
@@ -23,6 +21,12 @@ writer, I appreciate a good line (or moment in history).
 * "The older I grow, the less important the comma becomes. Let the reader catch his own breath." - [Elizabeth Clarkson Zwart](https://snaccooperative.org/ark:/99166/w6mk7rkn), columnist
 * "Pain is inevitable; suffering is optional." - [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 * "Small people talk about other people. Good people talk about current events. Great people talk about ideas." - unknown 
+
+### On Simplicity 
+
+* "Simplify, then add lightness." - [Colin Chapman](https://en.wikipedia.org/wiki/Colin_Chapman) on race-car design
+* "Everything should be made as simple as possible, but no simpler" - attributed to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (but probably a summary of a lecture)
+* "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - [Antoine de Saint-Exupery](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 
 ### Requires Context 
 
