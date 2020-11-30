@@ -19,6 +19,7 @@ some of these many years (decades!) ago.
 * "It doesn't matter what temperature a room is, it's always room temperature." - [Steven Wright](https://en.wikipedia.org/wiki/Steven_Wright)
 * “I apologize for such a long letter - I didn't have time to write a short one.” - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
 * "The older I grow, the less important the comma becomes. Let the reader catch his own breath." - [Elizabeth Clarkson Zwart](https://snaccooperative.org/ark:/99166/w6mk7rkn), columnist
+* "The greatest hockey player is the one you watched when you were 12 years old." - Ken Dryden (paraphrased)
 * "Pain is inevitable; suffering is optional." - [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 * "Small people talk about other people. Good people talk about current events. Great people talk about ideas." - unknown 
 
@@ -70,4 +71,10 @@ some of these many years (decades!) ago.
 * "We had two bags of grass, seventy-five pellets of mescaline, five sheets of high-powered blotter acid, a saltshaker half-full of cocaine, and a whole galaxy of multi-colored uppers, downers, screamers, laughers... Also, a quart of tequila, a quart of rum, a case of beer, a pint of raw ether, and two dozen amyls. Not that we needed all that for the trip, but once you get locked into a serious drug collection, the tendency is to push it as far as you can." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
 
 * "There he goes. One of God's own prototypes. A high-powered mutant of some kind, never even considered for mass production." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
+
+### TODO
+
+* 7-fin shark
+* 1963 split-window Corvette
+
 
