@@ -35,7 +35,7 @@ some of these many years (decades!) ago.
   he'll kick your ass." - (paraphrased) [Edward Van Halen](https://en.wikipedia.org/wiki/Eddie_Van_Halen)
 * "Am I afraid of high notes? Of course I am afraid. What sane man is not?" -
     [Luciano Pavarotti](https://en.wikipedia.org/wiki/Luciano_Pavarotti)
-* "You have to listen to the notes she's not playing." - [Lisa Simpson](https://en.wikipedia.org/wiki/Lisa_Simpson) on jazz
+* "You have to listen to the notes she's *not* playing." - [Lisa Simpson](https://en.wikipedia.org/wiki/Lisa_Simpson) on [jazz](https://www.youtube.com/watch?v=BbeilmP2wY8)
 * "Sometimes you have to play a long time to be able to play like yourself." - [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis)
 
 ### Context Required 
