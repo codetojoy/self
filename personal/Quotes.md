@@ -83,5 +83,6 @@ some of these many years (decades!) ago.
 * Dad: every 10 years
 * Henry Ford: whether you believe or not
 * Guido on hammer/C++ 
+* Chris Mears on giving a presentation
 
 
