@@ -48,6 +48,10 @@ some of these many years (decades!) ago.
 * "Just watch me." - [Pierre Elliott Trudeau](https://en.wikipedia.org/wiki/Pierre_Trudeau) 
     - when asked how far he would go, re: use of military/suspending civil liberties, in addressing kidnapping/terrorism by FLQ in [October Crisis](https://en.wikipedia.org/wiki/October_Crisis)
     - near 5m55sec [here](https://www.youtube.com/watch?v=XfUq9b1XTa0)
+* "For long a time, I wanted to be Edward Van Halen. Then Randy Rhoads. Then Yngwie Malmsteen. Now I want to be Todd Rundgren: here's why."
+    - the opening to an article in a guitar magazine by Paul Gilbert
+    - IMHO, it is a banger of an opening, in terms of writing. Absolutely gripping. 
+    - For context, Paul is an elite shred guitarist who lists 3 rock-guitar heroes, then switches it up with a song-writer as a influence.
 
 ### Mine
 
