@@ -1,7 +1,7 @@
 ## Bibliography 
 
-|:-----:|:--------:|:------:|:----:|
 | Month | Advocate | Author | Book |
+|:-----:|:--------:|:------:|:----:|
 | JAN 2021 | DC | Michael Crummey | [The Innocents](https://www.amazon.ca/Innocents-Michael-Crummey/dp/0385685416)
 | NOV 2020 | BS | Colson Whitehead | [The Nickel Boys](https://en.wikipedia.org/wiki/The_Nickel_Boys)
 | OCT 2020 | SH | Margaret Atwood | [The Heart Goes Last](https://en.wikipedia.org/wiki/The_Heart_Goes_Last)
