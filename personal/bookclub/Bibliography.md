@@ -2,6 +2,10 @@
 
 | Month | Advocate | Author | Book |
 |:-----:|:--------:|:------:|:----:|
+| MAY 2021 | BS | Colum McCann | [Aperogon](https://en.wikipedia.org/wiki/Apeirogon_(novel)) |
+| APR 2021 | MA | Anais Barbeau-Lavelette | [Suzanne](https://en.wikipedia.org/wiki/Suzanne_(novel)) |
+| MAR 2021 | SH | Raynor Winn | [The Salt Path](https://www.goodreads.com/book/show/38085814-the-salt-path) |
+| FEB 2021 | KC | Orson Scott Card | [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) |
 | JAN 2021 | DC | Michael Crummey | [The Innocents](https://www.amazon.ca/Innocents-Michael-Crummey/dp/0385685416)
 | NOV 2020 | BS | Colson Whitehead | [The Nickel Boys](https://en.wikipedia.org/wiki/The_Nickel_Boys)
 | OCT 2020 | SH | Margaret Atwood | [The Heart Goes Last](https://en.wikipedia.org/wiki/The_Heart_Goes_Last)
