@@ -9,7 +9,6 @@ import org.joda.time.*
 def formatter = DateTimeFormat.forPattern("dd-MMM-yyyy")
 def regex = /^"(.*?)".*$/
 
-def isHeader = true
 
 def processLine = { def line ->
     def matcher = line =~ regex
@@ -23,7 +22,15 @@ def processLine = { def line ->
 
 // ------------------ main 
 
-new File(args[0]).eachLine { def line ->
+if (args.length == 0) {
+    System.err.println "usage: need CSV file (e.g. plasma.csv)"
+    System.exit(-5150)
+}
+
+def isHeader = true
+def file = args[0]
+
+new File(file).eachLine { def line ->
     if (!isHeader) {
         processLine(line)
     } else {
