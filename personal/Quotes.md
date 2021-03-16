@@ -80,6 +80,10 @@ some of these many years (decades!) ago.
 
 * "There he goes. One of God's own prototypes. A high-powered mutant of some kind, never even considered for mass production." - [Fear and Loathing in Las Vegas](https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)) 
 
+### Excellent turns of phrase
+
+* "Heavy-metal is Punk Lite: all the rebellion, without that political aftertaste.", (Rolling Stone, circa 1987)
+
 ### TODO
 
 * 7-fin shark
