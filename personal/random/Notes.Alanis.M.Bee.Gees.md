@@ -7,4 +7,4 @@
 * [Stayin Alive](https://youtu.be/fNFzfwLM72c?t=34)
     - above link is cued to 0:34
     - "*Whether you're a brother or whether you're a mother ...*"
-* IMHO, it's not a rip-off but a clear influence
+* I'm not claiming it's a rip-off but rather a influence or an homage.
