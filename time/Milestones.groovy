@@ -40,3 +40,9 @@ println ""
 printDiff("Pheasant R", new DateTime(1999, 11, 1, 9, 00), new DateTime(2009, 11, 1, 9, 00))
 printDiff("Elm T", new DateTime(2010, 8, 1, 9, 00), new DateTime())
 
+println ""
+
+// computers
+printDiff("old MBP", new DateTime(2008, 4, 18, 9, 00), new DateTime())
+printDiff("new MBP", new DateTime(2015, 5, 1, 9, 00), new DateTime())
+
