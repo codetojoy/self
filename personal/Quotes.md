@@ -66,6 +66,7 @@ some of these many years (decades!) ago.
 ### Colleagues, School
 
 * "The passions are so high because the stakes are so small." - Dale Wilson
+* "You are high maintenance, but worth it." - former supervisor, giving me feedback
 * "Stay crazy." - Eric Nelson, in farewell card to me 
 * "X is just one of the many lies you were led to believe in your previous education." - [Professor David Buck](https://islandscholar.ca/people/dbuck), for various values of `X`
 * "It tastes like regret." - Michael Gauthier on extreme hot sauce
