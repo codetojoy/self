@@ -94,5 +94,4 @@ some of these many years (decades!) ago.
 * Henry Ford: whether you believe or not
 * Guido on hammer/C++ 
 * Chris Mears on giving a presentation
-
-
+* LBJ 11 people
