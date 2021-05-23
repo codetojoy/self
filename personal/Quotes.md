@@ -95,3 +95,4 @@ some of these many years (decades!) ago.
 * Guido on hammer/C++ 
 * Chris Mears on giving a presentation
 * LBJ 11 people
+* Russel Crowe: "full snot" scene in Gladiator
