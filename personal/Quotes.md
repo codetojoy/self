@@ -37,6 +37,7 @@ some of these many years (decades!) ago.
     [Luciano Pavarotti](https://en.wikipedia.org/wiki/Luciano_Pavarotti)
 * "You have to listen to the notes she's *not* playing." - [Lisa Simpson](https://en.wikipedia.org/wiki/Lisa_Simpson) on [jazz](https://www.youtube.com/watch?v=BbeilmP2wY8)
 * "Sometimes you have to play a long time to be able to play like yourself." - [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis)
+* "Music makes you feel feelings. Lyrics make you think thoughts. Songs make you feel thoughts." - [Yip Harburg](https://en.wikipedia.org/wiki/Yip_Harburg) at 15:38 [here](https://www.youtube.com/watch?v=epqYft12nV4)
 
 ### Context Required 
 
