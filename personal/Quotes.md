@@ -99,3 +99,4 @@ some of these many years (decades!) ago.
 * LBJ 11 people
 * Russel Crowe: "full snot" scene in Gladiator
 * Ben Levin: lyrics, music, songs 
+* Michael Lewis: look at the toenails (YT interview at UC Berkley)
