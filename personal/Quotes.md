@@ -90,6 +90,8 @@ some of these many years (decades!) ago.
 
 ### TODO
 
+* perfect Pepsis
+* star of your own movie
 * 7-fin shark
 * 1963 split-window Corvette
 * Dad: every 10 years
