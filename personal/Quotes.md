@@ -56,6 +56,7 @@ some of these many years (decades!) ago.
 
 ### Mine
 
+* "Some people make you feel as though you are an important character in their movie; others make you feel like you are the star of your movie. I aspire to be in the latter category." - Michael Easter
 * "I used to say 'Less is more.', but now I just say 'L.'" - Michael Easter
 * "To be graceful: swim; to be youthful: bike; to be thoughtful: run." - Michael Easter on triathlon
 * "The one with nothing but happiness has everything (but acceptance)."- Michael Easter
@@ -91,7 +92,6 @@ some of these many years (decades!) ago.
 ### TODO
 
 * perfect Pepsis
-* star of your own movie
 * 7-fin shark
 * 1963 split-window Corvette
 * Dad: every 10 years
