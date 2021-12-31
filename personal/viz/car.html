@@ -7,11 +7,13 @@
 
     function drawChart() {
 
-      var data = new google.visualization.DataTable();
+      let data = new google.visualization.DataTable();
       data.addColumn('date', 'month');
       data.addColumn('number', 'miles');
 
       data.addRows([
+[new Date('2022-01-01'),375],
+[new Date('2021-12-01'),733],
 [new Date('2021-12-01'),733],
 [new Date('2021-11-01'),452],
 [new Date('2021-10-01'),502],
@@ -89,7 +91,7 @@
 [new Date('2015-11-01'),515],
       ]);
 
-      var options = {
+      let options = {
         chart: {
           title: 'Mileage',
           subtitle: 'in miles',
@@ -106,7 +108,7 @@
         },
       };
 
-      var chart = new google.charts.Line(document.getElementById('linechart_material'));
+      let chart = new google.charts.Line(document.getElementById('linechart_material'));
 
       chart.draw(data, options);
     }
