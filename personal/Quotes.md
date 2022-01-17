@@ -65,6 +65,7 @@ some of these many years (decades!) ago.
 * "Never underestimate the willingness of others to spend *your* time." - Michael Easter
 * "There's no such thing as boredom; there's only boring people." - Michael Easter
 * "I love Mozart, because his music is perfection. I love Chopin, because he showed there is level beyond perfection."- Michael Easter
+* "A foot-path through snow is shared humanity: gratitude for previous trail-blazers, and a sense of contribution in packing it down further." - Michael Easter
 
 ### Colleagues, School
 
