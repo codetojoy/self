@@ -22,6 +22,7 @@ some of these many years (decades!) ago.
 * "The greatest hockey player is the one you watched when you were 12 years old." - Ken Dryden (paraphrased)
 * "Pain is inevitable; suffering is optional." - [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 * "Small people talk about other people. Good people talk about current events. Great people talk about ideas." - unknown 
+* "Everyone wants to stick it to The Man, but The Man is selling the stick." - unknown 
 
 ### On Simplicity 
 
