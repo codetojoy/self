@@ -106,3 +106,6 @@ some of these many years (decades!) ago.
 * Ben Levin: lyrics, music, songs 
 * Michael Lewis: look at the toenails
     - 50:18 [here](https://www.youtube.com/watch?v=LVMW__W6ulY)
+* Bush 41
+    - If you want to know someone's heart, you have to know what breaks it.
+    - 4 minute stretch beginning at 40:47 [here](https://www.youtube.com/watch?v=7QGZ4Rhtp4s)
