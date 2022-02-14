@@ -43,6 +43,8 @@
 
 * TED talk by [Tracy Chevalier](https://www.youtube.com/watch?v=nCg2NcGYu34)
 * [albatross re-united](https://www.youtube.com/watch?v=JXk6gIDX4Dk)
+    - this one is good but there is an episode in "Planet Earth" that much better: the male awaits the return of the female in a tropical paradise. The shot pans to an overview of the island with the line, "There's 2 million birds on the island. But there's only one for him."
+    - I can't seem to find the 2nd one, even on Netflix in the original film
 * Eugene Levy [tribute](https://www.youtube.com/watch?v=DysVIh-vzQw)
 * Doug Messenger on [his wife](https://www.youtube.com/watch?v=_Zpn1ZOYP08)
     - 4m30 to 5m30s
