@@ -1,126 +1,46 @@
 <html>
-<head>
-  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-  <script type="text/javascript">
-    google.load('visualization', '1.1', {packages: ['line']});
-    google.setOnLoadCallback(drawChart);
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1.1", { packages: ["line"] });
+      google.setOnLoadCallback(drawChart);
 
-    function drawChart() {
+      function drawChart() {
+        let data = new google.visualization.DataTable();
+        data.addColumn("date", "month");
+        data.addColumn("number", "miles");
+        data.addColumn("number", "average");
 
-      let data = new google.visualization.DataTable();
-      data.addColumn('date', 'month');
-      data.addColumn('number', 'miles');
-
-      data.addRows([
+        // beware: VS Code will format this and break it
+        data.addRows([
 __CODETOJOY_DATA
-/*
-[new Date('2022-03-01'),217],
-[new Date('2022-02-01'),250],
-[new Date('2022-01-01'),375],
-[new Date('2021-12-01'),733],
-[new Date('2021-12-01'),733],
-[new Date('2021-11-01'),452],
-[new Date('2021-10-01'),502],
-[new Date('2021-09-01'),473],
-[new Date('2021-08-01'),217],
-[new Date('2021-07-01'),460],
-[new Date('2021-06-01'),286],
-[new Date('2021-05-01'),267],
-[new Date('2021-04-01'),195],
-[new Date('2021-03-01'),202],
-[new Date('2021-02-01'),270],
-[new Date('2021-01-01'),470],
-[new Date('2020-12-01'),558],
-[new Date('2020-11-01'),300],
-[new Date('2020-10-01'),283],
-[new Date('2020-09-01'),442],
-[new Date('2020-08-01'),339],
-[new Date('2020-07-01'),244],
-[new Date('2020-06-01'),246],
-[new Date('2020-05-01'),33],
-[new Date('2020-04-01'),327],
-[new Date('2020-03-01'),508],
-[new Date('2020-02-01'),579],
-[new Date('2020-01-01'),845],
-[new Date('2019-12-01'),793],
-[new Date('2019-11-01'),541],
-[new Date('2019-10-01'),571],
-[new Date('2019-09-01'),934],
-[new Date('2019-08-01'),600],
-[new Date('2019-07-01'),469],
-[new Date('2019-06-01'),387],
-[new Date('2019-05-01'),304],
-[new Date('2019-04-01'),477],
-[new Date('2019-04-01'),477],
-[new Date('2019-03-01'),400],
-[new Date('2019-02-01'),421],
-[new Date('2019-01-01'),586],
-[new Date('2018-12-01'),478],
-[new Date('2018-11-01'),407],
-[new Date('2018-10-01'),477],
-[new Date('2018-09-01'),498],
-[new Date('2018-08-01'),384],
-[new Date('2018-07-01'),860],
-[new Date('2018-06-01'),517],
-[new Date('2018-05-01'),446],
-[new Date('2018-04-01'),368],
-[new Date('2018-03-01'),375],
-[new Date('2018-02-01'),490],
-[new Date('2018-01-01'),1749],
-[new Date('2017-12-01'),382],
-[new Date('2017-11-01'),257],
-[new Date('2017-10-01'),195],
-[new Date('2017-09-01'),203],
-[new Date('2017-08-01'),385],
-[new Date('2017-07-01'),789],
-[new Date('2017-06-01'),305],
-[new Date('2017-05-01'),358],
-[new Date('2017-04-01'),293],
-[new Date('2017-03-01'),231],
-[new Date('2017-02-01'),329],
-[new Date('2017-01-01'),633],
-[new Date('2016-12-01'),344],
-[new Date('2016-11-01'),615],
-[new Date('2016-10-01'),357],
-[new Date('2016-09-01'),317],
-[new Date('2016-08-01'),557],
-[new Date('2016-07-01'),1095],
-[new Date('2016-06-01'),419],
-[new Date('2016-05-01'),976],
-[new Date('2016-04-01'),304],
-[new Date('2016-03-01'),263],
-[new Date('2016-02-01'),289],
-[new Date('2016-01-01'),599],
-[new Date('2015-12-01'),443],
-[new Date('2015-11-01'),515],
-*/
-      ]);
+]);
 
-      let options = {
-        chart: {
-          title: 'Mileage',
-          subtitle: 'in miles',
-        },
-        axes: {
+        let options = {
+          curveType: "function",
+          chart: {
+            title: "Mileage",
+            subtitle: "in miles",
+          },
+          axes: {
             y: {
-                all: {
-                    range: {
-                        max: 1900,
-                        min: 0
-                    }
-                }
-            }
-        },
-      };
+              all: {
+                range: {
+                  max: 1900,
+                  min: 0,
+                },
+              },
+            },
+          },
+        };
 
-      let chart = new google.charts.Line(document.getElementById('linechart_material'));
+        let chart = new google.charts.Line(document.getElementById("linechart_material"));
 
-      chart.draw(data, options);
-    }
-  </script>
-</head>
-<body>
-  <div id="linechart_material" style="width: 90%; height: 90%"></div>
-</body>
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="linechart_material" style="width: 90%; height: 90%"></div>
+  </body>
 </html>
-

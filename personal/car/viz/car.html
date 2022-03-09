@@ -1,202 +1,122 @@
 <html>
-<head>
-  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-  <script type="text/javascript">
-    google.load('visualization', '1.1', {packages: ['line']});
-    google.setOnLoadCallback(drawChart);
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1.1", { packages: ["line"] });
+      google.setOnLoadCallback(drawChart);
 
-    function drawChart() {
+      function drawChart() {
+        let data = new google.visualization.DataTable();
+        data.addColumn("date", "month");
+        data.addColumn("number", "miles");
+        data.addColumn("number", "average");
 
-      let data = new google.visualization.DataTable();
-      data.addColumn('date', 'month');
-      data.addColumn('number', 'miles');
+        // beware: VS Code will format this and break it
+        data.addRows([
+[new Date(2022,2,1),217,455],
+[new Date(2022,1,1),250,455],
+[new Date(2022,0,1),375,455],
+[new Date(2021,11,1),733,455],
+[new Date(2021,10,1),452,455],
+[new Date(2021,9,1),502,455],
+[new Date(2021,8,1),473,455],
+[new Date(2021,7,1),217,455],
+[new Date(2021,6,1),460,455],
+[new Date(2021,5,1),286,455],
+[new Date(2021,4,1),267,455],
+[new Date(2021,3,1),195,455],
+[new Date(2021,2,1),202,455],
+[new Date(2021,1,1),270,455],
+[new Date(2021,0,1),470,455],
+[new Date(2020,11,1),558,455],
+[new Date(2020,10,1),300,455],
+[new Date(2020,9,1),283,455],
+[new Date(2020,8,1),442,455],
+[new Date(2020,7,1),339,455],
+[new Date(2020,6,1),244,455],
+[new Date(2020,5,1),246,455],
+[new Date(2020,4,1),33,455],
+[new Date(2020,3,1),327,455],
+[new Date(2020,2,1),508,455],
+[new Date(2020,1,1),579,455],
+[new Date(2020,0,1),845,455],
+[new Date(2019,11,1),793,455],
+[new Date(2019,10,1),541,455],
+[new Date(2019,9,1),571,455],
+[new Date(2019,8,1),934,455],
+[new Date(2019,7,1),600,455],
+[new Date(2019,6,1),469,455],
+[new Date(2019,5,1),387,455],
+[new Date(2019,4,1),304,455],
+[new Date(2019,3,1),477,455],
+[new Date(2019,2,1),400,455],
+[new Date(2019,1,1),421,455],
+[new Date(2019,0,1),586,455],
+[new Date(2018,11,1),478,455],
+[new Date(2018,10,1),407,455],
+[new Date(2018,9,1),477,455],
+[new Date(2018,8,1),498,455],
+[new Date(2018,7,1),374,455],
+[new Date(2018,6,1),860,455],
+[new Date(2018,5,1),517,455],
+[new Date(2018,4,1),446,455],
+[new Date(2018,3,1),368,455],
+[new Date(2018,2,1),375,455],
+[new Date(2018,1,1),490,455],
+[new Date(2018,0,1),1749,455],
+[new Date(2017,11,1),382,455],
+[new Date(2017,10,1),257,455],
+[new Date(2017,9,1),195,455],
+[new Date(2017,8,1),203,455],
+[new Date(2017,7,1),385,455],
+[new Date(2017,6,1),789,455],
+[new Date(2017,5,1),305,455],
+[new Date(2017,4,1),358,455],
+[new Date(2017,3,1),293,455],
+[new Date(2017,2,1),231,455],
+[new Date(2017,1,1),329,455],
+[new Date(2017,0,1),633,455],
+[new Date(2016,11,1),344,455],
+[new Date(2016,10,1),615,455],
+[new Date(2016,9,1),357,455],
+[new Date(2016,8,1),317,455],
+[new Date(2016,7,1),557,455],
+[new Date(2016,6,1),1095,455],
+[new Date(2016,5,1),419,455],
+[new Date(2016,4,1),976,455],
+[new Date(2016,3,1),304,455],
+[new Date(2016,2,1),263,455],
+[new Date(2016,1,1),289,455],
+[new Date(2016,0,1),599,455],
+[new Date(2015,11,1),443,455],
+[new Date(2015,10,1),515,455],
+]);
 
-      data.addRows([
-[new Date(2022,2,1),217],
-[new Date(2022,1,1),250],
-[new Date(2022,0,1),375],
-[new Date(2021,11,1),733],
-[new Date(2021,10,1),452],
-[new Date(2021,9,1),502],
-[new Date(2021,8,1),473],
-[new Date(2021,7,1),217],
-[new Date(2021,6,1),460],
-[new Date(2021,5,1),286],
-[new Date(2021,4,1),267],
-[new Date(2021,3,1),195],
-[new Date(2021,2,1),202],
-[new Date(2021,1,1),270],
-[new Date(2021,0,1),470],
-[new Date(2020,11,1),558],
-[new Date(2020,10,1),300],
-[new Date(2020,9,1),283],
-[new Date(2020,8,1),442],
-[new Date(2020,7,1),339],
-[new Date(2020,6,1),244],
-[new Date(2020,5,1),246],
-[new Date(2020,4,1),33],
-[new Date(2020,3,1),327],
-[new Date(2020,2,1),508],
-[new Date(2020,1,1),579],
-[new Date(2020,0,1),845],
-[new Date(2019,11,1),793],
-[new Date(2019,10,1),541],
-[new Date(2019,9,1),571],
-[new Date(2019,8,1),934],
-[new Date(2019,7,1),600],
-[new Date(2019,6,1),469],
-[new Date(2019,5,1),387],
-[new Date(2019,4,1),304],
-[new Date(2019,3,1),477],
-[new Date(2019,2,1),400],
-[new Date(2019,1,1),421],
-[new Date(2019,0,1),586],
-[new Date(2018,11,1),478],
-[new Date(2018,10,1),407],
-[new Date(2018,9,1),477],
-[new Date(2018,8,1),498],
-[new Date(2018,7,1),374],
-[new Date(2018,6,1),860],
-[new Date(2018,5,1),517],
-[new Date(2018,4,1),446],
-[new Date(2018,3,1),368],
-[new Date(2018,2,1),375],
-[new Date(2018,1,1),490],
-[new Date(2018,0,1),1749],
-[new Date(2017,11,1),382],
-[new Date(2017,10,1),257],
-[new Date(2017,9,1),195],
-[new Date(2017,8,1),203],
-[new Date(2017,7,1),385],
-[new Date(2017,6,1),789],
-[new Date(2017,5,1),305],
-[new Date(2017,4,1),358],
-[new Date(2017,3,1),293],
-[new Date(2017,2,1),231],
-[new Date(2017,1,1),329],
-[new Date(2017,0,1),633],
-[new Date(2016,11,1),344],
-[new Date(2016,10,1),615],
-[new Date(2016,9,1),357],
-[new Date(2016,8,1),317],
-[new Date(2016,7,1),557],
-[new Date(2016,6,1),1095],
-[new Date(2016,5,1),419],
-[new Date(2016,4,1),976],
-[new Date(2016,3,1),304],
-[new Date(2016,2,1),263],
-[new Date(2016,1,1),289],
-[new Date(2016,0,1),599],
-[new Date(2015,11,1),443],
-[new Date(2015,10,1),515],
-/*
-[new Date('2022-03-01'),217],
-[new Date('2022-02-01'),250],
-[new Date('2022-01-01'),375],
-[new Date('2021-12-01'),733],
-[new Date('2021-12-01'),733],
-[new Date('2021-11-01'),452],
-[new Date('2021-10-01'),502],
-[new Date('2021-09-01'),473],
-[new Date('2021-08-01'),217],
-[new Date('2021-07-01'),460],
-[new Date('2021-06-01'),286],
-[new Date('2021-05-01'),267],
-[new Date('2021-04-01'),195],
-[new Date('2021-03-01'),202],
-[new Date('2021-02-01'),270],
-[new Date('2021-01-01'),470],
-[new Date('2020-12-01'),558],
-[new Date('2020-11-01'),300],
-[new Date('2020-10-01'),283],
-[new Date('2020-09-01'),442],
-[new Date('2020-08-01'),339],
-[new Date('2020-07-01'),244],
-[new Date('2020-06-01'),246],
-[new Date('2020-05-01'),33],
-[new Date('2020-04-01'),327],
-[new Date('2020-03-01'),508],
-[new Date('2020-02-01'),579],
-[new Date('2020-01-01'),845],
-[new Date('2019-12-01'),793],
-[new Date('2019-11-01'),541],
-[new Date('2019-10-01'),571],
-[new Date('2019-09-01'),934],
-[new Date('2019-08-01'),600],
-[new Date('2019-07-01'),469],
-[new Date('2019-06-01'),387],
-[new Date('2019-05-01'),304],
-[new Date('2019-04-01'),477],
-[new Date('2019-04-01'),477],
-[new Date('2019-03-01'),400],
-[new Date('2019-02-01'),421],
-[new Date('2019-01-01'),586],
-[new Date('2018-12-01'),478],
-[new Date('2018-11-01'),407],
-[new Date('2018-10-01'),477],
-[new Date('2018-09-01'),498],
-[new Date('2018-08-01'),384],
-[new Date('2018-07-01'),860],
-[new Date('2018-06-01'),517],
-[new Date('2018-05-01'),446],
-[new Date('2018-04-01'),368],
-[new Date('2018-03-01'),375],
-[new Date('2018-02-01'),490],
-[new Date('2018-01-01'),1749],
-[new Date('2017-12-01'),382],
-[new Date('2017-11-01'),257],
-[new Date('2017-10-01'),195],
-[new Date('2017-09-01'),203],
-[new Date('2017-08-01'),385],
-[new Date('2017-07-01'),789],
-[new Date('2017-06-01'),305],
-[new Date('2017-05-01'),358],
-[new Date('2017-04-01'),293],
-[new Date('2017-03-01'),231],
-[new Date('2017-02-01'),329],
-[new Date('2017-01-01'),633],
-[new Date('2016-12-01'),344],
-[new Date('2016-11-01'),615],
-[new Date('2016-10-01'),357],
-[new Date('2016-09-01'),317],
-[new Date('2016-08-01'),557],
-[new Date('2016-07-01'),1095],
-[new Date('2016-06-01'),419],
-[new Date('2016-05-01'),976],
-[new Date('2016-04-01'),304],
-[new Date('2016-03-01'),263],
-[new Date('2016-02-01'),289],
-[new Date('2016-01-01'),599],
-[new Date('2015-12-01'),443],
-[new Date('2015-11-01'),515],
-*/
-      ]);
-
-      let options = {
-        chart: {
-          title: 'Mileage',
-          subtitle: 'in miles',
-        },
-        axes: {
+        let options = {
+          curveType: "function",
+          chart: {
+            title: "Mileage",
+            subtitle: "in miles",
+          },
+          axes: {
             y: {
-                all: {
-                    range: {
-                        max: 1900,
-                        min: 0
-                    }
-                }
-            }
-        },
-      };
+              all: {
+                range: {
+                  max: 1900,
+                  min: 0,
+                },
+              },
+            },
+          },
+        };
 
-      let chart = new google.charts.Line(document.getElementById('linechart_material'));
+        let chart = new google.charts.Line(document.getElementById("linechart_material"));
 
-      chart.draw(data, options);
-    }
-  </script>
-</head>
-<body>
-  <div id="linechart_material" style="width: 90%; height: 90%"></div>
-</body>
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="linechart_material" style="width: 90%; height: 90%"></div>
+  </body>
 </html>
-
