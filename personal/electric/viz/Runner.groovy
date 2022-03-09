@@ -11,23 +11,6 @@ output:
 [new Date(2015,2,2),162],
 */
 
-/*
-@ToString
-class RefInfo {
-    def month
-    def ordinal
-}
-
-final def refInfos = Month.values().collect { month ->
-    // e.g. "JAN", 0
-    //      ...
-    //      "DEC", 11
-    def shortMonth = month.toString().substring(0,3)
-    def value = month.value - 1
-    new RefInfo(month: shortMonth, ordinal: value)
-}
-*/
-
 @ToString
 class Info {
     def day
@@ -61,18 +44,6 @@ def getDataFromFile = { file ->
     }
     return result
 }
-
-/*
-// e.g. SEP -> 8 
-def getMonth = { monthStr -> 
-    return refInfos.find{ it.month == monthStr }.ordinal
-}
-
-// test
-refInfos.each { testInfo ->
-    assert getMonth(testInfo.month) == testInfo.ordinal
-}
-*/
 
 def buildTokenFromRec = { rec ->
     def result = "[new Date(${rec.year},${rec.month},${rec.day}),${rec.amount}],"
