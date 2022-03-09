@@ -45,18 +45,18 @@ def getDataFromFile = { file ->
     return result
 }
 
-def buildTokenFromRec = { rec ->
-    def result = "[new Date(${rec.year},${rec.month},${rec.day}),${rec.amount}],"
+def buildTokenFromRec = { rec, avg ->
+    def result = "[new Date(${rec.year},${rec.month},${rec.day}),${rec.amount},${avg}],"
     return result
 }
 
 def testInfo = new Info(year: 2022, month: 10, day: 1, amount: 5150)
-assert buildTokenFromRec(testInfo) == '[new Date(2022,10,1),5150],'
+assert buildTokenFromRec(testInfo,123) == '[new Date(2022,10,1),5150,123],'
 
 def NEW_LINE = "\n"
 
-def buildToken = { infos ->
-    return infos.collect { buildTokenFromRec(it) }.join(NEW_LINE)
+def buildToken = { infos, avg ->
+    return infos.collect { buildTokenFromRec(it,avg) }.join(NEW_LINE)
 }
 
 final String SUBSTITUTION_TOKEN = "__CODETOJOY_DATA"
@@ -73,6 +73,13 @@ def writeFile = { outputFile, templateFile, infos ->
             writer.write("\n")
         }
     }
+}
+
+def getAverage = { infos ->
+    def count = infos.size()
+    def total = infos.sum { it.amount as int }
+    def result = total / count as int
+    return result
 }
 
 // ---------- main
@@ -95,7 +102,8 @@ assert csvFile.exists() && csvFile.isFile()
 assert templateHtml.exists() && templateHtml.isFile()
 
 def infos = getDataFromFile(csvFile)
-def data = buildToken(infos)
+def average = getAverage(infos)
+def data = buildToken(infos, average)
 writeFile(outputHtml, templateHtml, data)
 
 println "Ready."

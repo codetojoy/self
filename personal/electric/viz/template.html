@@ -10,12 +10,14 @@
       var data = new google.visualization.DataTable();
       data.addColumn('date', 'month');
       data.addColumn('number', 'kwh');
+      data.addColumn('number', 'avg');
 
       data.addRows([
 __CODETOJOY_DATA
       ]);
 
       var options = {
+        curve: 'function',
         chart: {
           title: 'Electric Usage',
           subtitle: 'in kwh',
