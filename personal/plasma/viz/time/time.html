@@ -1,0 +1,111 @@
+<html>
+<head>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+    google.load('visualization', '1.1', {packages: ['line']});
+    google.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+
+      var data = new google.visualization.DataTable();
+      data.addColumn('date', 'month');
+      data.addColumn('number', 'minutes');
+      data.addColumn('number', 'avg');
+
+      data.addRows([
+[new Date(2022,2,10),20,20],
+[new Date(2022,2,1),25,20],
+[new Date(2022,1,22),21,20],
+[new Date(2022,1,8),22,20],
+[new Date(2022,0,25),28,20],
+[new Date(2022,0,18),21,20],
+[new Date(2022,0,11),23,20],
+[new Date(2021,11,16),21,20],
+[new Date(2021,11,2),21,20],
+[new Date(2021,10,9),19,20],
+[new Date(2021,10,2),21,20],
+[new Date(2021,9,26),22,20],
+[new Date(2021,9,5),22,20],
+[new Date(2021,8,23),21,20],
+[new Date(2021,8,9),20,20],
+[new Date(2021,8,2),21,20],
+[new Date(2021,7,19),20,20],
+[new Date(2021,7,11),22,20],
+[new Date(2021,7,4),21,20],
+[new Date(2021,6,28),16,20],
+[new Date(2021,6,21),20,20],
+[new Date(2021,6,14),22,20],
+[new Date(2021,5,29),20,20],
+[new Date(2021,5,22),21,20],
+[new Date(2021,5,15),21,20],
+[new Date(2021,5,8),19,20],
+[new Date(2021,4,27),20,20],
+[new Date(2021,4,13),20,20],
+[new Date(2021,4,5),20,20],
+[new Date(2021,3,28),20,20],
+[new Date(2021,3,21),21,20],
+[new Date(2021,3,13),20,20],
+[new Date(2021,3,6),20,20],
+[new Date(2021,2,30),20,20],
+[new Date(2021,2,19),20,20],
+[new Date(2021,2,12),20,20],
+[new Date(2021,2,4),21,20],
+[new Date(2021,1,25),20,20],
+[new Date(2021,1,19),20,20],
+[new Date(2021,1,12),20,20],
+[new Date(2021,1,4),21,20],
+[new Date(2021,0,28),22,20],
+[new Date(2021,0,20),20,20],
+[new Date(2021,0,13),21,20],
+[new Date(2021,0,6),19,20],
+[new Date(2020,11,17),20,20],
+[new Date(2020,11,10),21,20],
+[new Date(2020,10,24),21,20],
+[new Date(2020,10,13),21,20],
+[new Date(2020,10,5),23,20],
+[new Date(2020,9,28),20,20],
+[new Date(2020,9,20),20,20],
+[new Date(2020,8,17),24,20],
+[new Date(2020,8,10),17,20],
+[new Date(2020,7,20),23,20],
+[new Date(2020,7,13),20,20],
+[new Date(2020,7,6),22,20],
+[new Date(2020,6,23),21,20],
+[new Date(2020,6,9),17,20],
+[new Date(2020,5,9),21,20],
+[new Date(2020,5,2),22,20],
+[new Date(2020,2,24),21,20],
+[new Date(2019,8,27),18,20],
+      ]);
+
+      var options = {
+        curve: 'function',
+        chart: {
+          title: 'Donation Duration',
+          subtitle: 'in minutes',
+        },
+        axes: {
+            y: {
+                all: {
+                    range: {
+                        max: 30,
+                        min: 14 
+                    }
+                }
+            }
+        },
+        width: 1000,
+        height: 700
+      };
+
+      var chart = new google.charts.Line(document.getElementById('linechart_material'));
+
+      chart.draw(data, options);
+    }
+  </script>
+</head>
+<body>
+  <div id="linechart_material"></div>
+</body>
+</html>
+
