@@ -2,6 +2,14 @@
 
 | Month | Advocate | Author | Book |
 |:-----:|:--------:|:------:|:----:|
+| MAY 2022 | MA | Sue Townsend | [Adrian Mole: The Prostrate Years](https://en.wikipedia.org/wiki/Adrian_Mole:_The_Prostrate_Years) | 
+| APR 2022 | DC | Esi Edugyan | [Half-Blood Blues](https://en.wikipedia.org/wiki/Half-Blood_Blues) | 
+| MAR 2022 | JP | Eliza Reid | [Secrets of the Sprakkar](https://www.amazon.ca/Secrets-Sprakkar-Icelands-Extraordinary-Changing/dp/1982174048/ref=sr_1_1?crid=8FNWX80ME1AJ&keywords=Secrets+of+the+Sprakkar&qid=1651620950&sprefix=secrets+of+the+sprakkar+%2Caps%2C92&sr=8-1) | 
+| FEB 2022 | BS | Fredrik Backman | [Anxious People](https://en.wikipedia.org/wiki/Anxious_People) | 
+| JAN 2022 | SH | Anne Marie MacDonald | [Adult Onset](https://en.wikipedia.org/wiki/Adult_Onset) | 
+| NOV 2021 | MA | Caitlin Doughty | [From Here to Eternity](https://en.wikipedia.org/wiki/Caitlin_Doughty#From_Here_to_Eternity) | 
+| SEP 2021 | DC | Shyam Selvadurai | [Hungry Ghosts](https://www.amazon.ca/Hungry-Ghosts-Shyam-Selvadurai-ebook/dp/B004JN1CLK/ref=sr_1_1?crid=3SIHV3IC1XJUY&keywords=Shyam+Selvadurai&qid=1651620416&sprefix=shyam+selvadurai%2Caps%2C159&sr=8-1) | 
+| JUL 2021 | JP | Thomas Hardy | [Far from the madding crowd](https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd#:~:text=Far%20from%20the%20Madding%20Crowd%20(1874)%20is%20Thomas%20Hardy',it%20gained%20a%20wide%20readership.&text=The%20title%20page%20from%20an,Far%20from%20the%20Madding%20Crowd.) | 
 | MAY 2021 | BS | Colum McCann | [Aperogon](https://en.wikipedia.org/wiki/Apeirogon_(novel)) |
 | APR 2021 | MA | Anais Barbeau-Lavelette | [Suzanne](https://en.wikipedia.org/wiki/Suzanne_(novel)) |
 | MAR 2021 | SH | Raynor Winn | [The Salt Path](https://www.goodreads.com/book/show/38085814-the-salt-path) |
