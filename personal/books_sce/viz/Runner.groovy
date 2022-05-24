@@ -23,17 +23,33 @@ def cleanNumber(s) {
     return s.replaceAll(/^"/, "").replaceAll(/"$/, "")
 }
 
-def cleanTitle(s) {
-    return s.replaceAll(/:.*/, /: [subtitle]"/)
+def abbreviateTitle(s) {
+    def result = s
+    def maxLength = 40
+    if (s.contains(":") && s.length() > maxLength) {
+        def stem = s[0..maxLength].replaceAll(/"/, "")
+        result = "\"" + stem + " ...\""
+    }
+    return result
+}
+
+def abbreviateReview(s) {
+    def result = s
+    def maxLength = 60
+    if (s.length() > maxLength) {
+        def stem = s[0..maxLength].replaceAll(/"/, "")
+        result = "\"" + stem + " ...\""
+    }
+    return result
 }
 
 def getDataFromLine = { line -> 
     def tokens = line.trim().split(",")
-    def title = cleanTitle(tokens[1])
+    def title = abbreviateTitle(tokens[1])
     def author = tokens[2]
     def rating = cleanNumber(tokens[3])
     def year = cleanNumber(tokens[6])
-    def review = tokens[7]
+    def review = abbreviateReview(tokens[7])
 
     new Info(title: title, author: author, rating: rating, year: year, review: review) 
 }
