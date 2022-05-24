@@ -29,3 +29,18 @@ body {
     margin: auto;
 }
 
+.my_header {
+    color: black;
+    font-size: 1.8rem;
+}
+
+.my_data {
+    color: #800080;
+    font-size: 1.2rem;
+}
+
+.my_data_odd {
+    color: #800080;
+    font-size: 1.2rem;
+    background-color: lavender;
+}
