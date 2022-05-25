@@ -13,11 +13,21 @@ class InfoMapper {
 
     def utils = new Utils()
 
+    def abbreviateTitle(s) {
+        def result = s
+        def maxLength = 30
+        if (s.contains(":") && s.length() > maxLength) {
+            def stem = s[0..maxLength].replaceAll(/"/, "")
+            result = stem + " ..."
+        }
+        return result
+    }
+
     def mapLine(def line) {
         def info = null
 
         try {
-            def title = line.getAt(INDEX_TITLE)
+            def title = abbreviateTitle(line.getAt(INDEX_TITLE))
             def author = line.getAt(INDEX_AUTHOR)
             def rating = line.getAt(INDEX_RATING)
             def year = line.getAt(INDEX_YEAR)
