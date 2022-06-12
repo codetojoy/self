@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Books</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="books">
+      <input class="search" placeholder="Search" />
+      <button class="sort" data-sort="title">Sort by title</button>
+      <button class="sort" data-sort="rating">Sort by rating</button>
+      <button class="sort" data-sort="author">Sort by author</button>
+      <button class="sort" data-sort="year">Sort by year</button>
+      <button class="sort" data-sort="review">Sort by review</button>
+      <table>
+        <!-- IMPORTANT, class="list" have to be at tbody -->
+        <tbody class="list">
+__DATA_ROWS
+        <!-- 
+          <tr>
+            <td class="title">Daylight</td>
+            <td class="author">David Baldacci</td>
+            <td class="rating">3.0</td>
+            <td class="year">2021</td>
+            <td class="review"></td>
+          </tr>
+          <tr>
+            <td class="title">The German Midwife</td>
+            <td class="author">Mandy Robotham</td>
+            <td class="rating">4.0</td>
+            <td class="year">2020</td>
+            <td class="review">x</td>
+          </tr>
+          <tr>
+            <td class="title">Conjure Women</td>
+            <td class="author">Afia Atakora</td>
+            <td class="rating">3.5</td>
+            <td class="year">2019</td>
+            <td class="review"></td>
+          </tr>
+        -->
+        </tbody>
+      </table>
+    </div>
+    <hr />
+    <p>v 3</p>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+    <script src="./books.js"></script>
+  </body>
+</html>
