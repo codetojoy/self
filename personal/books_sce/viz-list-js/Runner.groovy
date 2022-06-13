@@ -20,13 +20,13 @@ output:
 
 def format = 
 """
- <tr>
-            <td class="title">%s</td>
-            <td class="author">%s</td>
-            <td class="rating">%s</td>
-            <td class="year">%s</td>
-            <td class="review">%s</td>
- </tr>
+<tr>
+  <td class="title">%s</td>
+  <td class="author">%s</td>
+  <td class="rating">%s</td>
+  <td class="year">%s</td>
+  <td class="review">%s</td>
+</tr>
 """
 
 @ToString
@@ -94,10 +94,8 @@ def buildTokenFromRec = { rec ->
     return result
 }
 
-def NEW_LINE = "\n"
-
 def buildToken = { infos ->
-    return infos.collect { buildTokenFromRec(it) }.join(NEW_LINE)
+    return infos.collect { buildTokenFromRec(it) }.join("")
 }
 
 final String SUBSTITUTION_TOKEN = "__DATA_ROWS"
