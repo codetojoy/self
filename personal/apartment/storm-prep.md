@@ -12,6 +12,7 @@
     * turn off apps in Cellular for phone
     * generally, prep phone for no wifi
     * remove A/C unit
+    * get cash reserves 
 * TODO
     - buy storm radio (wind-up?)
     - buy another flashlight
