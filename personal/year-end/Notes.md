@@ -1,23 +1,25 @@
 
-* 2021
-- # of plasma donations: 41
-- # of non-tech books read: 12
-- running: 240 miles
+### 2021
+
+* num plasma donations: 41
+* num non-tech books read: 12
+* running: 240 miles
 
 ### 2020
 
-* # of plasma donations: 22
-* # of non-tech books read: 10
+* num plasma donations: 22
+* num non-tech books read: 10
 * running: 356 miles
 
 ### 2019
 
-* # of plasma donations: 9
-* # of non-tech books read: 1
+* num plasma donations: 9
+* num non-tech books read: 1
 * running: 170 miles
 
 ### fitness stats
 
+```
 2021 run - 240 mi, bike -   0mi, swim -   0 mi, weight: ?,147
 2020 run - 356 mi, bike -   0mi, swim -   0 mi, weight: 160,?
 2019 run - 170 mi, bike -   0mi, swim - 7.8 mi, weight: 147,157 +10
@@ -34,4 +36,4 @@
 2008 run -  80 mi, bike -  86 mi, swim -  6 mi
 2007 run - 298 mi, bike - 250 mi, swim - 21 mi
 2006 run - 332 mi, bike - 520 mi, swim - 46 mi
-
+```
