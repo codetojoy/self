@@ -1,9 +1,8 @@
 
-### 2021
-
-* # of plasma donations: 41
-* # of non-tech books read: 12
-* running: 240 miles
+* 2021
+- # of plasma donations: 41
+- # of non-tech books read: 12
+- running: 240 miles
 
 ### 2020
 
