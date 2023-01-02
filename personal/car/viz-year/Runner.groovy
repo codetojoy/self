@@ -8,7 +8,7 @@ input:
 01-MAR-2022,129279,217
 
 output:
-[new Date(2022,2,1),217,$avg],
+[new Date(2022,1,1),217,$avg],
 */
 
 @ToString
@@ -58,8 +58,16 @@ assert buildTokenFromRec(testInfo,123) == '[new Date(2022,1,1),5150,123],'
 def NEW_LINE = "\n"
 
 def buildToken = { infos, averageInMiles ->
-    return infos.values().collect { buildTokenFromRec(it, averageInMiles) }.join(NEW_LINE)
+    def builder = new StringBuilder()
+    infos.keySet().sort().each { key ->
+        def info = infos[key]
+        builder.append(buildTokenFromRec(info, averageInMiles) + NEW_LINE)
+    }
+    builder.toString()
 }
+
+def testInfosA = [2021: new Info(year: 2021, amount: 100), 2022: new Info(year: 2022, amount: 300)]
+assert buildToken(testInfosA,555) == "[new Date(2021,1,1),100,555],${NEW_LINE}[new Date(2022,1,1),300,555],${NEW_LINE}"
 
 final String SUBSTITUTION_TOKEN = "__CODETOJOY_DATA"
 
@@ -88,6 +96,9 @@ def getAverageMiles = { infos ->
     return result
 }
 
+def testInfosB = [2021: new Info(year: 2021, amount: 100), 2022: new Info(year: 2022, amount: 300)]
+assert 200 == getAverageMiles(testInfosB)
+
 // ---------- main
 
 if (args.length < 3) {
@@ -110,7 +121,6 @@ assert templateHtml.exists() && templateHtml.isFile()
 def infos = getDataFromFile(csvFile)
 
 def averageInMiles = getAverageMiles(infos)
-println "TRACER average is: " + averageInMiles
 
 def data = buildToken(infos, averageInMiles)
 writeFile(outputHtml, templateHtml, data)
