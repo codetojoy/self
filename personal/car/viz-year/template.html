@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1.1", { packages: ["line"] });
+      google.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        let data = new google.visualization.DataTable();
+        data.addColumn("date", "month");
+        data.addColumn("number", "miles");
+        data.addColumn("number", "average");
+
+        // beware: VS Code will format this and break it
+        data.addRows([
+__CODETOJOY_DATA
+]);
+
+        let options = {
+          curveType: "function",
+          chart: {
+            title: "Mileage",
+            subtitle: "in miles",
+          },
+          axes: {
+            y: {
+              all: {
+                range: {
+                  max: 8000,
+                  min: 3000,
+                },
+              },
+            },
+          },
+        };
+
+        let chart = new google.charts.Line(document.getElementById("linechart_material"));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="linechart_material" style="width: 90%; height: 90%"></div>
+  </body>
+</html>
