@@ -22,7 +22,7 @@ float miataRate = miataDiff / miataNumDays
 def miataStr = String.format("Miata mileage rate: %.2f", miataRate)
 println miataStr 
 
-int hondaDiff = 125225 - 11000
+int hondaDiff = 131577 - 11000
 float hondaRate = hondaDiff / hondaNumDays 
 def hondaStr = String.format("Honda mileage rate: %.2f", hondaRate)
 println hondaStr 
