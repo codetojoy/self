@@ -1,0 +1,28 @@
+
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+mainClassName = 'net.codetojoy.system.Runner'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.xlson.groovycsv:groovycsv:1.0'
+    implementation 'org.apache.groovy:groovy:4.0.6'
+
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.mockito:mockito-all:1.9.5'
+}
+
+project.ext.stagingDir = 'staging'
+
+installDist.doFirst {
+    ant.delete(dir: project.ext.stagingDir)
+}
+
+installDist {
+    into project.ext.stagingDir
+}
+
