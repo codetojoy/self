@@ -14,5 +14,5 @@
     * remove A/C unit
     * get cash reserves 
 * TODO
-    - buy storm radio (wind-up?)
+    - prep/test the storm radio
     - buy another flashlight
