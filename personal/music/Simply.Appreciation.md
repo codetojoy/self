@@ -44,3 +44,36 @@
     - The Marriage of Figaro
     - https://www.youtube.com/watch?v=Qv1dyjWEjfI 
     - aria for bass
+
+* Minuet
+    - Don Giovanni
+    - see youtube Alan Chan
+ 
+* Non so piu
+    - The Marriage of Figaro
+    - aria "i don't know anymore what i am"
+    - see Alan Chan  
+
+* Piano Concerto No 15 K. 450
+    - see Alan Chan
+    - 1784 (age 28?) 
+    - B-flat
+    - considered quite difficult
+
+* Piano Sonata K. 331
+    - A major
+    - first movement
+    - see Alan Chan
+
+* Piano Sonata K. 331
+    - A major
+    - Ronda Turca
+    - third movement
+    - see Alan Chan
+
+* Piano Sonata C Major K. 545
+    - No. 16
+    - for beginners
+    - might be around same time as symphony no. 39
+    - first movement
+
