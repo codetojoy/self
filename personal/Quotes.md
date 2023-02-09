@@ -23,6 +23,7 @@ some of these many years (decades!) ago.
 * "Pain is inevitable; suffering is optional." - [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)
 * "Small people talk about other people. Good people talk about current events. Great people talk about ideas." - unknown 
 * "Everyone wants to stick it to The Man, but The Man is selling the stick." - unknown 
+* "Wherever I travel, I'm too late. The orgy has moved elsewhere." - Mordecai Richler
 
 ### On Simplicity 
 
