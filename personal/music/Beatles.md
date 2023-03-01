@@ -234,6 +234,25 @@
     - mocked for being too light
     - Jimmy Scott-E used the phrase, sued Paul for stealing it
     - Lennon played piano in mock music-hall style, but they used it
-    - also dislied by George, mentions it in "Savoy Truffle"
+    - also disliked by George, mentions it in "Savoy Truffle"
+
+* Wild Honey Pie
+    - less than a minute long
+    - throw-away, experimental
+
+* The Continuing Story of Bungalow Bill
+    - John  
+    - mocking young American who killed a tiger at the ashram in India
+
+* While My Guitar Gently Weeps
+    - George
+
+* Happiness is a Warm Gun
+    - John  
+    - from NRA magazine
+    - double entendre re: guns and Yoko 
+    - considered complex, serious
+
+* HALT 
 
 
