@@ -21,12 +21,12 @@ println ""
 
 int miataDiff = 216000 - 53000
 float miataRate = miataDiff / miataNumDays 
-def miataStr = String.format("Miata mileage rate: %.2f", miataRate)
+def miataStr = String.format("Miata mileage rate: %.2f miles per day", miataRate)
 println miataStr 
 
 int hondaDiff = 134400 - 11000
 float hondaRate = hondaDiff / hondaNumDays 
-def hondaStr = String.format("Honda mileage rate: %.2f", hondaRate)
+def hondaStr = String.format("Honda mileage rate: %.2f miles per day", hondaRate)
 println hondaStr 
 
 println ""
