@@ -1,4 +1,11 @@
 
+### 2024
+
+* num plasma donations: 0
+* num non-tech books read: 6 
+* running: 132 miles
+* swimming: 1.55 miles
+
 ### 2023
 
 * num plasma donations: 9
