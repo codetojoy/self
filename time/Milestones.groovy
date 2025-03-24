@@ -9,11 +9,15 @@ def printDiff = { prefix, start, end ->
     return numDays
 }
 
-def NOW = new DateTime()
+final def NOW = new DateTime()
+final def DATE_MAY_2007 = new DateTime(2007, 5, 15, 9, 00)
+final def DATE_NOV_2024 = new DateTime(2024, 11, 11, 9, 00)
+final def DATE_MAR_2025 = new DateTime(2025, 3, 23, 9, 00)
 
 // cars
-def miataNumDays = printDiff("Miata", new DateTime(1996, 7, 3, 9, 00), new DateTime(2007, 5, 15, 9, 00))
-def hondaNumDays = printDiff("Civic Si", new DateTime(2007, 5, 15, 9, 00), NOW)
+def miataNumDays = printDiff("Miata", new DateTime(1996, 7, 3, 9, 00), DATE_MAY_2007)
+def hondaNumDays = printDiff("Civic Si", DATE_MAY_2007, DATE_NOV_2024)
+def chevNumDays = printDiff("Chev", DATE_NOV_2024, NOW)
 
 println ""
 
@@ -45,6 +49,7 @@ printDiff("Elm T", new DateTime(2010, 8, 1, 9, 00), NOW)
 println ""
 
 // computers
-printDiff("old MBP", new DateTime(2008, 4, 18, 9, 00), new DateTime())
-printDiff("new MBP", new DateTime(2015, 5, 1, 9, 00), new DateTime())
+printDiff("old MBP", new DateTime(2008, 4, 18, 9, 00), NOW)
+printDiff("new MBP", new DateTime(2015, 5, 1, 9, 00), DATE_MAR_2025)
+printDiff("M3 MBP", DATE_MAR_2025, NOW) 
 
