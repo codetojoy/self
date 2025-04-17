@@ -93,6 +93,8 @@ some of these many years (decades!) ago.
 ### Excellent turns of phrase
 
 * "Heavy-metal is Punk Lite: all the rebellion, without that political aftertaste.", (Rolling Stone, circa 1987)
+* "OK everyone shut up, _this_ is how you play Hearts." - Malcolm Gladwell [here](https://www.youtube.com/watch?v=qesQyGQ0NBQ) near 16m48s, 17m52s 
+    * i.e. no one else can explain things properly 
 
 ### TODO
 
