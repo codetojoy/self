@@ -3,3 +3,12 @@
 01-JAN-2025 13919x, trip 240
 15-MAR-2025 13921x, trip x 
 28-MAY-2025 13922x, trip ~16 
+29-MAY-2025 13928x, inspection complete
+
+### Notes
+
+* MAY 2025
+    - battery B2 is from CD's Toyota
+    - 'fair' on the meter
+    - might last 2 years?
+    - better than B1
