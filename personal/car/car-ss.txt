@@ -4,8 +4,13 @@
 15-MAR-2025 13921x, trip x 
 28-MAY-2025 13922x, trip ~16 
 29-MAY-2025 13928x, inspection complete
+21-JUN-2025 13932x, tire fixed (valve stem)
 
 ### Notes
+
+* JUN 2025
+    - tire fixed at Andy's Tire
+    - they asked for wheel socket
 
 * MAY 2025
     - battery B2 is from CD's Toyota
