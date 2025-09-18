@@ -41,6 +41,7 @@ some of these many years (decades!) ago.
 * "Sometimes you have to play a long time to be able to play like yourself." - [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis)
 * "Music makes you feel feelings. Lyrics make you think thoughts. Songs make you feel thoughts." - [Yip Harburg](https://en.wikipedia.org/wiki/Yip_Harburg) at 15:38 [here](https://www.youtube.com/watch?v=epqYft12nV4)
 * "For the same money, we could play in tune." - Mark Shapiro, Music Director PEI Symphony Orchestra, as told by Morgan Saulnier, about his quips in rehearsal
+* "After playing Chopin, I feel as if I had been weeping over sins that I had never committed, and mourning over tragedies that were not my own." - Oscar Wilde
 
 ### Context Required 
 
