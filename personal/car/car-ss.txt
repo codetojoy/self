@@ -4,24 +4,24 @@
 16-SEP-2025 13933x, new battery from Canadian Tire
 21-JUN-2025 13932x, tire fixed (valve stem)
 29-MAY-2025 13928x, inspection complete
-28-MAY-2025 13922x, trip ~16 
-15-MAR-2025 13921x, trip x 
-01-JAN-2025 13919x, trip 240
-2x NOV 2024
+28-MAY-2025 13922x
+15-MAR-2025 13921x
+01-JAN-2025 13919x
+2x-NOV-2024
 
 ### Notes
 
 * 27-SEP-2025
-    - tires at Mom/Dad's
+    - extra tires now at Mom/Dad's
 * 16-SEP-2025
     - new battery from Canadian Tire
     - alarm is definitely not set
-    - inspection due DEC 2025
+    - registration due DEC 2025
     - oil change before they left, I think ? TODO: confirm
 
 * 31-AUG-2025
     - wouldn't start at M's
-    - car alarm went off ? (weakly)
+    - buzzer for doors being ajar went off ? (weakly)
 
 * JUN 2025
     - tire fixed at Andy's Tire
