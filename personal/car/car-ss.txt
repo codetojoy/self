@@ -1,4 +1,5 @@
 
+18-OCT-2025 1394xx, to York Point Rd
 11-OCT-2025 1394xx, out past Stratford
 04-OCT-2025 1394xx, to York Point Rd
 27-SEP-2025 1393xx, to York Point Rd
@@ -13,6 +14,8 @@
 
 ### Notes
 
+* 18-OCT-2025
+    - removed inspect spray and windshield fluid from trunk
 * 27-SEP-2025
     - extra tires now at Mom/Dad's
 * 16-SEP-2025
