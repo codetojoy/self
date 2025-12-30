@@ -1,4 +1,6 @@
 
+30-DEC-2025 1396xx, Brackey Pt Rd
+14-DEC-2025 13960x, Mt. Albion Irving
 01-DEC-2025 1395xx, Mt. Albion Irving, 15 L gas
 15-NOV-2025 13954x, Mt. Albion Irving
 01-NOV-2025 13950x, Mt. Albion Irving
@@ -17,6 +19,8 @@
 
 ### Notes
 
+* 30-DEC-2025
+    - printed registration in lieu of sticker, in car  
 * 18-OCT-2025
     - removed inspect spray and windshield fluid from trunk
 * 27-SEP-2025
