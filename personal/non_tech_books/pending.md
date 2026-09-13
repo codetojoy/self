@@ -1,10 +1,11 @@
 
 ### in library
 
-- ON_HOLD, M. Pollan - a world appears
-- ON_HOLD, T. W - age of extraction
+x - ON_HOLD, M. Pollan - a world appears
+x - ON_HOLD, T. W - age of extraction
 - in (?), C. Doctorow - ensh!ttification
 - in, John Green - everything is tuberculosis
+- on order, Ian Bogost, Small Stuff
 
 ### at bookmark
 
